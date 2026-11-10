@@ -1,0 +1,33 @@
+# Exercise: Pack for the Trip
+#
+# Work in the trip folder: find what takes the space with du and df, make a link, pack two
+# archives, and open the one Maya sent. Questions 1, 2, 3 and 7 have an answer to write on
+# their numbered line, after the ")". Write only the answer, like the example. Tasks 4, 5, 6
+# and 8 have nothing to write: the check looks at the trip folder itself.
+#
+# Example: which file in the trip folder is the packing list?
+# 0) packing-list.txt
+
+# 1. Which folder in trip takes up the most space? (Write the folder's name only.)
+1)
+
+# 2. Inside trip/photos, which folder takes up the most space?
+2)
+
+# 3. In what df -h prints, which column tells you how much room is left on the drive? (Write the column's name the way df writes it.)
+3)
+
+# 4. Make a link named tickets in the trip folder that points to documents/bookings/2026/lisbon/tickets.
+#    (Nothing to write here.)
+
+# 5. Pack the documents folder into documents.tar.gz, saved in the trip folder.
+#    (Nothing to write here.)
+
+# 6. Pack the photos folder into photos.zip, saved in the trip folder, with every photo inside it.
+#    (Nothing to write here.)
+
+# 7. Maya sent you from-maya.tar.gz. Without unpacking it, find the name of the one file in its maps folder.
+7)
+
+# 8. Now unpack from-maya.tar.gz in the trip folder.
+#    (Nothing to write here.)
